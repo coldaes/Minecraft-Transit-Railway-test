@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "mtr",
-	"version": "@version@",
+	"version": "",
 	"name": "Minecraft Transit Railway",
 	"description": "A Minecraft mod that adds automated train systems into the game.",
 	"authors": [
